@@ -1,6 +1,10 @@
 # DEVOPS PROJECT 
 Setting up Virtual Machines in Amazon web services and hosting my web application .
 
+Beginner Project 
+
+All files available in repository 
+
 # Prerequisites
 #
 - JDK 11 
