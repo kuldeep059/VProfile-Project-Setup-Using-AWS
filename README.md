@@ -9,6 +9,7 @@ All free services of AWS Used in this project
 
 # Prerequisites
 #
+- One Need to make AWS Account
 - JDK 11 
 - Maven 3 
 - MySQL 8
