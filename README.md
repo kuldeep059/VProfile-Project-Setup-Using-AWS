@@ -1,4 +1,5 @@
 # DEVOPS PROJECT 
+Setting up Virtual Machines in Amazon web services and hosting my web application .
 
 # Prerequisites
 #
