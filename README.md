@@ -5,6 +5,8 @@ Beginner Project
 
 All files available in repository 
 
+All free services of AWS Used in this project 
+
 # Prerequisites
 #
 - JDK 11 
